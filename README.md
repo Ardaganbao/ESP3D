@@ -115,11 +115,17 @@ if embedded uploader does not show up you can force it ti display using : http:/
 Check [Wiki](https://github.com/luc-github/ESP3D/wiki/Install-Instructions) or Join the chat at [Discord server](https://discord.gg/Z4ujTwE)   
 
 ## :exclamation:Any issue/feedback ?    
-Check [Wiki](https://github.com/luc-github/ESP3D/wiki/Install-Instructions) and [FAQ](https://github.com/luc-github/ESP3D/issues?utf8=%E2%9C%93&q=label%3AFAQ+) or [submit ticket](https://github.com/luc-github/ESP3D/issues)    
+Check [Wiki](https://github.com/luc-github/ESP3D/wiki/Install-Instructions) and [FAQ](https://github.com/luc-github/ESP3D/discussions?discussions_q=category%3AF.A.Q) 
+If you still have issue: [submit ticket](https://github.com/luc-github/ESP3D/issues)    
+If it is not an issue join discussion [here](https://github.com/luc-github/ESP3D/discussions)
+
+    
 
 ## ESP3D is used by :
 * Opensource version is used by various boards like : https://www.aliexpress.com/wholesale?SearchText=esp3d&opensearch=true&switch_new_app=y
 and https://youtu.be/XoWW0aU6DGE?t=76  
+
+This is for information only - I am not linked to these products, it is just a search result of a query using ESP3D as keyword. So I am not responsible of any usage of them.
 
 
 * Custom version (not this repository) is used on azteeg mini wifi : http://www.panucatt.com/azteeg_X5_mini_reprap_3d_printer_controller_p/ax5mini.htm    
